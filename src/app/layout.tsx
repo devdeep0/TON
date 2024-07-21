@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-      <TonConnectUIProvider manifestUrl="https://ton-g3gwzdv9r-devdeep0s-projects.vercel.app/tonconnect-manifest.json"
+      <TonConnectUIProvider manifestUrl="https://ton-beige.vercel.app//tonconnect-manifest.json"
       walletsListConfiguration={{
         includeWallets: [
           {
