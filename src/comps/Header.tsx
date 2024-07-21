@@ -5,7 +5,7 @@ import { useTonWallet } from '@tonconnect/ui-react';
 function Header() {
   return (
     <>
-    <div className='w-full h-auto'>
+    <div className='w-full h-auto flex items-center justify-center'>
          <TonConnectButton />
         </div>
     </>
